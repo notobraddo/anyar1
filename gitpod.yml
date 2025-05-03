@@ -1,0 +1,6 @@
+image:
+  file: Dockerfile
+
+tasks:
+  - init: bash -c "echo 'Initializing Gitpod environment...'"
+    command: bash
